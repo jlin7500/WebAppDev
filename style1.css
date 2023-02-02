@@ -1,0 +1,36 @@
+body
+{
+    background-color: #55b4d2;
+    text-align: center;
+}
+h2
+{
+    color:aliceblue;
+    margin-left: 50px;
+}
+span
+{
+    color:white;
+}
+li
+{
+    text-align: center;
+    list-style-position: inside;
+}
+table
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+p
+{
+    font-size: large;
+}
+img
+{
+    border-radius: 50%;
+}
+.noncircle
+{
+    border-radius: 55px;
+}
