@@ -34,3 +34,12 @@ img
 {
     border-radius: 55px;
 }
+a
+{
+    font-size: 150%;
+}
+a:hover
+{
+    transition: a .9s;
+    color: purple;
+}
